@@ -8,7 +8,7 @@ You can download it from here: [Download template](./startbootstrap-new-age-gh-p
 
 - https://github.com/startbootstrap/startbootstrap-new-age
 
-## Copyright and License
+## Copyright and License (For the template)
 
 The MIT License (MIT)
 
